@@ -1,2 +1,2 @@
 # segment-anything-mri
-segment anything model (SAM) applied to MRI
+Segment Anything Model (SAM) applied to MRI
